@@ -1,0 +1,10 @@
+youtube-transcript-api~=0.6.2
+streamlit~=1.39.0
+python-dotenv~=1.0.1
+fpdf~=1.7.2
+
+google~=3.0.0
+protobuf~=5.28.2
+python-pptx~=1.0.2
+PyPDF2~=3.0.1
+gTTS~=2.5.3
