@@ -71,21 +71,21 @@ streamlit run app.py
 
 Technologies Used
 
-Python: Backend and logic for handling text extraction, summarization, and document generation.
-
-Streamlit: Frontend framework for building the web app interface.
-
-Google Gemini AI: API for generating AI-powered content summaries.
-
-YouTube Transcript API: For extracting video transcripts.
-
-gTTS (Google Text-to-Speech): To convert text summaries into speech.
-
-PyPDF2: For PDF text extraction.
-
-FPDF: For generating PDFs.
-
-python-pptx: For generating PowerPoint slides.
+ 1 Python: Backend and logic for handling text extraction, summarization, and document generation.
+  
+ 2 Streamlit: Frontend framework for building the web app interface.
+  
+ 3 Google Gemini AI: API for generating AI-powered content summaries.
+  
+ 4 YouTube Transcript API: For extracting video transcripts.
+  
+ 5 gTTS (Google Text-to-Speech): To convert text summaries into speech.
+  
+ 6 PyPDF2: For PDF text extraction.
+  
+ 7 FPDF: For generating PDFs.
+  
+ 8 python-pptx: For generating PowerPoint slides.
 
 How to Contribute
 Fork the repository.
